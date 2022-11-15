@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412092568635",
+    "project_id": "navigation-drawer-cbe27",
+    "storage_bucket": "navigation-drawer-cbe27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412092568635:android:b0d7ba17fba0b17914781e",
+        "android_client_info": {
+          "package_name": "com.varshil.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412092568635-v96kp70ri9o4fq2670g3ct9jeilv3g4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJjZ3X2IK7v8RJjb5N8FiFYuOcd4OfpvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412092568635-v96kp70ri9o4fq2670g3ct9jeilv3g4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
